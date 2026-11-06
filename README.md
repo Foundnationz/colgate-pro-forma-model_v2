@@ -1,5 +1,7 @@
 # Colgate-Palmolive Pro Forma Model (2024)
 
+An Excel financial model and written report that project Colgate-Palmolive’s 2024 financial statements. The model shows that costs rose almost as fast as sales, so profit stays flat near $2.7bn whatever the growth rate.
+
 A percent-of-sales pro forma model of **Colgate-Palmolive Company**: income statement, balance sheet and cash flow statement for 2023-2027, with 2024 as the target year. Built in Excel from five years of reported statements (2018-2022).
 
 This is an improved version of a Financial Modelling (BBA2293) group assignment I submitted in the past. It covers only my part, the pro forma statements. Free cash flow, WACC and valuation were done by teammates and are not included.
